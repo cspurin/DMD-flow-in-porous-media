@@ -88,7 +88,7 @@ The code and examples can be run from most modern Python distributions such as A
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/sede-open/core2relperm.git
+   git clone https://github.com/cspurin/dmd.git
    ```
 2. Install additioal Python libraries<BR>
    pandas 
@@ -197,12 +197,12 @@ We would like to acknowledge
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: images/Core2Relperm-logo.png
-[license-url]: https://github.com/cspurin/dmd//blob/main/license.txt
+[product-screenshot]: images/logo.png
+[license-url]: https://github.com/cspurin/dmd/blob/main/license.txt
 [linkedin-url]: https://www.linkedin.com/in/catherine-spurin-39404a87/?originalSubdomain=uk
-[contributors-url]: https://github.com/cspurin/dmd//graphs/contributors
-[forks-url]: https://github.com/cspurin/dmd//network/members
-[issues-url]: https://github.com/cspurin/dmd//issues
-[stars-url]: https://github.com/cspurin/dmd//stargazers
+[contributors-url]: https://github.com/cspurin/dmd/graphs/contributors
+[forks-url]: https://github.com/cspurin/dmd/network/members
+[issues-url]: https://github.com/cspurin/dmd/issues
+[stars-url]: https://github.com/cspurin/dmd/stargazers
 [BestReadme-url]: https://github.com/othneildrew/Best-README-Template
 
