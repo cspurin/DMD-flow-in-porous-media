@@ -35,7 +35,7 @@
   <h3 align="center">DMD for Porous Media Flows</h3>
 
   <p align="center">
-    A Python library for interpreting core flooding experiments
+    A Python library for interpreting core flooding experiments using Dynamic Mode Decomposition (DMD)
     <br />
     <a href="https://github.com/cspurin/dmd/"><strong>Explore the docs »</strong></a>
     <br />
